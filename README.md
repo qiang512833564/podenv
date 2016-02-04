@@ -1,5 +1,5 @@
 # Pod Version Manager
-
+pod的使用简化版
 podenv allows you to easily install, and switch between multiple versions of
 CocoaPods, without managing Ruby.
 
